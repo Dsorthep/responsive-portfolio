@@ -1,0 +1,23 @@
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: maroon;
+    color: white;
+}
+
+.menu{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777
+}
+
+.content{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:#777777
+}
+
+.body{
+    background-image: url(../responsive-portfolio/images/dark-grey-terrazzo.png)
+}
+
+
+
+
